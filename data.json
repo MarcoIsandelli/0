@@ -1,0 +1,9 @@
+"HelluvaBoss" {
+    "image" : ""
+    "Pilot"{
+        "id" : "HelluvaBossPilot",
+        "name" : "Pilot",
+        "file" : "",
+        "image" : ""
+    }
+}

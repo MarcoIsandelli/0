@@ -1,0 +1,18 @@
+#title{
+    position: relative;
+    border: ;
+    height: 200px;
+    font-size: 90px;
+    background-color: darkred;
+    color: white;
+}
+
+#logo {
+    size: 50px;
+}
+
+#logotext{
+    position: absolute;
+    top: 0px;
+    left: 150px;
+}
